@@ -1,5 +1,7 @@
 # NStED_planets
-NASA Star and Exoplanet Database - Planetary Systems (beta)
+All exoplanets data, with select columns, in UTF-8 comma-sep CSV format. Data from NASA Star and Exoplanet Database - Planetary Systems (beta) -> https://exoplanetarchive.ipac.caltech.edu/docs/data.html
+
+Column definitions can be found here: https://exoplanetarchive.ipac.caltech.edu/docs/API_PS_columns.html
 
 # Included columns:
 
